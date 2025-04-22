@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Lisa, a student at Brigham Young University-Idaho interested in computer science. Welcome to my GitHub profile!
+I'm Lisa, a student at Brigham Young University-Idaho majoring in computer science. Welcome to my GitHub profile!
 
 ## About Me
 
